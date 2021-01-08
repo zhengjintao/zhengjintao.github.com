@@ -1,9 +1,1 @@
 ### c
-### python
-### java
-### node.js
-### javascript
-### php
-### perl
-### R
-### kotolin
