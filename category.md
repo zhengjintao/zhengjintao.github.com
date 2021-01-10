@@ -20,3 +20,6 @@ bittorrent
 
 
 lionsgate
+https://github.com/MisterBooo/LeetCodeAnimation
+https://revealjs.com/
+https://www.netdata.cloud/
