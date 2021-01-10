@@ -7,4 +7,13 @@
 ### perl
 ### R
 ### kotolin
+ruby 
+ruby on rails
 hexo
+
+travis ci
+circle ci
+
+heroku
+
+bittorrent
